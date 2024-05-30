@@ -24,10 +24,10 @@ conda env create -f environment.yml
 
 ## Usage
 按默认参数启动训练脚本
-```shell
+```bash
 bash train.sh
 ```
 按默认参数启动推理脚本
-```shell
+```bash
 bash predict.sh
 ```
